@@ -1,0 +1,30 @@
+{
+  "name": "simplegameserver",
+  "version": "1.0.0",
+  "description": "Simple server for mobile games",
+  "main": "app.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntakks/SimpleGameServer.git"
+  },
+  "keywords": [
+    "socket.io",
+    "socket",
+    "mobile",
+    "game",
+    "server"
+  ],
+  "author": "syntaks.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syntakks/SimpleGameServer/issues"
+  },
+  "homepage": "https://github.com/syntakks/SimpleGameServer#readme",
+  "dependencies": {
+    "shortid": "^2.2.15",
+    "socket.io": "^2.3.0"
+  }
+}
